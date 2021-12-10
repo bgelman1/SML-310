@@ -54,4 +54,4 @@ This folder tests the models on the 2018 senatorial and gubernatorial primaries.
 
 
 
-Please see the slideshow for a more complete summary.
+Please see the slideshow and research paper for a more complete summary.
