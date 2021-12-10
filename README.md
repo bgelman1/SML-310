@@ -30,17 +30,23 @@ This folder has scripts for conducting validation testing on 3 types of models, 
 This folder tests the models on the 2018 senatorial and gubernatorial primaries.
 
   a. Final_Full LR_New.ipynb : Testing for full linear regression
-  Final_Mini LR_New.ipynb : Testing for mini linear regression
-  Final_RF_New.ipynb : Testing for random forest
-  Final_BT_New.ipynb : Testing for boosted trees
-  Final_ET_New.ipynb : Testing for extra trees
+ 
+ Final_Mini LR_New.ipynb : Testing for mini linear regression
+ 
+ Final_RF_New.ipynb : Testing for random forest
+ 
+ Final_BT_New.ipynb : Testing for boosted trees
+ 
+ Final_ET_New.ipynb : Testing for extra trees
 
 
  b. Final_Dem_BT_New No Election Data.ipynb: Test Dem BT model without past election data
+  
   Final_Dem_BT_New No Election No Race Data.ipynb: Test Dem BT model without past election or racial data
 
 
  c. Final_Rep_ET_New No Election Data.ipynb: Test Rep ET model without past election data
+  
   Final_Rep_ET_New No Election No Race Data.ipynb: Test Rep ET model without past election or racial data
 
 
