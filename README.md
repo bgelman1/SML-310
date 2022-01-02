@@ -1,4 +1,4 @@
-# SML-310
+# Texas Primary Turnout Model
 
 This project creates a set of statistical models that can predict turnout for the Texas statewide primary elections (Gubernatorial and Senate races) in 2018, on the county level. 
 
